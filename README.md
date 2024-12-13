@@ -544,7 +544,7 @@ function showTownsOverlay() {
   left: 0;
   right: 0;
   bottom: 60px;
-  background: rgba(26, 26, 31, 0.98);
+  background:  #000000;
   z-index: 1000;
   opacity: 0;
   visibility: hidden;
@@ -611,7 +611,7 @@ function showTownsOverlay() {
 .town-card {
   border-radius: 12px;
   overflow: hidden;
-  background: rgba(255, 215, 0, 0.1);
+  background: rgba(26, 26, 31, 0.98);
   cursor: pointer;
   transition: all 0.3s ease;
   position: relative;
